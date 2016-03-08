@@ -19,4 +19,4 @@ dependencies {
     compile 'com.android.support:design:23.1.1'
 }
 
-apply from : 'deploy.gradle'
+// apply from : 'deploy.gradle'
